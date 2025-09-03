@@ -37,3 +37,4 @@ jobs:
               --account-key ${{ secrets.AZURE_STORAGE_KEY }} \
               -s ./dist \
               -d '$web'
+              --overwrite
