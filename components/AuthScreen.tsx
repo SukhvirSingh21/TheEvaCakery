@@ -53,7 +53,7 @@ export function AuthScreen() {
           <View style={styles.iconContainer}>
             <User color="#E91E63" size={40} />
           </View>
-          <Text style={styles.title}>The Eva Cake Bakery Tracker</Text>
+          <Text style={styles.title}>The Eva Cakery Tracker</Text>
           <Text style={styles.subtitle}>
             {isSignUp ? 'Create your account' : 'Sign in to your account'}
           </Text>
